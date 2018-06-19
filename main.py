@@ -492,5 +492,3 @@ df_output['Survived'] = output
 df_output[['PassengerId', 'Survived']].to_csv('./output.csv', index=False)
 
 
-# # inspired from: https://ahmedbesbes.com/how-to-score-08134-in-titanic-kaggle-challenge.html
-
